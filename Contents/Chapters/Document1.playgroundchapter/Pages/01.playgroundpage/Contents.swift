@@ -1,7 +1,7 @@
 //#-hidden-code
 //
 //  Contents.swift
-//
+// Adding a comment
 //  Copyright © 2017,2018 Apple Inc. All rights reserved.
 //
 //#-end-hidden-code
